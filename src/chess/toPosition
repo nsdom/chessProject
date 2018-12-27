@@ -1,0 +1,14 @@
+matrix_row = 8 - chess_row
+matix_columm = chess_column - 'a'
+
+Subtraction of uniCodes
+
+'a' - 'a' = 0
+'b' - 'a' = 1
+
+
+
+a = 0
+b = 1
+...
+h = 8
